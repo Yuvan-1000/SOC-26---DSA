@@ -162,16 +162,16 @@ This repository contains my work completed during the first four weeks of the Su
 
 Completed all planned topics up to Week 4:
 
-✓ Foundations
-✓ Sorting
-✓ Arrays (Basic, Medium, Hard)
-✓ Binary Search (1D & 2D)
-✓ Recursion
-✓ Strings
-✓ Bit Manipulation
-✓ Linked Lists
-✓ Stacks
-✓ Queues
+ Foundations ,
+ Sorting ,
+ Arrays (Basic, Medium, Hard) ,
+ Binary Search (1D & 2D) ,
+ Recursion ,
+ Strings ,
+ Bit Manipulation ,
+ Linked Lists ,
+ Stacks ,
+ Queues 
 
 Currently preparing to move on to Trees, Heaps, Greedy Algorithms, Graphs, and Dynamic Programming in the next phase of the program.
 
