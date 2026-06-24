@@ -1,4 +1,4 @@
-# Summer of Code 2026 – DSA Progress Report (Mid-Term)
+# Seasons of Code 2026 – DSA Progress Report (Mid-Term)
 
 ## Overview
 
